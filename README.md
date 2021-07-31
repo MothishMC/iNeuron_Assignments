@@ -35,7 +35,7 @@ This repository contains my solution to iNeuron assignments.
 <details>
 <summary>Assignment-5</summary>
 <ul>
-    <li> <a href="https://github.com/MothishMC/iNeuron_Assignments/blob/main/5.1_exception_handling.py">Qn.5.1</a>
-    <li> <a href="https://github.com/MothishMC/iNeuron_Assignments/blob/main/5.2_sentence_genrator.py">Qn.5.2</a>
+    <li> <a href="https://github.com/MothishMC/iNeuron_Assignments/blob/main/5.1_exception_handling.py">Qn.1</a>
+    <li> <a href="https://github.com/MothishMC/iNeuron_Assignments/blob/main/5.2_sentence_genrator.py">Qn.2</a>
 </ul>
 </details>
