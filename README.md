@@ -2,8 +2,9 @@
 This repository contains my solution to iNeuron assignments.
 <details>
 <summary>Assignment-1</summary>
-<ul>    
-    <li> [GitHub](http://github.com)
+<ul>  
+   <li> http://github.com - automatic!
+    [GitHub](http://github.com)
     <li> [Qn.1] (blob/main/1.1_numbers.py)
     <li> [Qn.2] (https://github.com/MothishMC/iNeuron_Assignments/blob/main/1.2_reverse_names.py)
     <li> [Qn.3] (https://github.com/MothishMC/iNeuron_Assignments/blob/main/1.3_sphere_volume.py )
