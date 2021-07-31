@@ -3,8 +3,8 @@ This repository contains my solution to iNeuron assignments.
 <details>
 <summary>Assignment-1</summary>
 <ul>  
-    <li> <a href="blob/main/1.2_reverse_names.py">Qn.1</a>
-    <li> [Qn.2] (https://github.com/MothishMC/iNeuron_Assignments/blob/main/1.2_reverse_names.py)
+    <li> <a href="/blob/main/1.2_reverse_names.py">Qn.1</a>
+    <li><a href="https://github.com/MothishMC/iNeuron_Assignments/blob/main/1.2_reverse_names.py">Qn.2</a>
     <li> [Qn.3] (https://github.com/MothishMC/iNeuron_Assignments/blob/main/1.3_sphere_volume.py )
 </details>
 <details>
