@@ -11,7 +11,7 @@ This repository contains my solution to iNeuron assignments.
 <details>
 <summary>Assignment-2</summary>
 
-    + markdown list 1
+    + mothish
     + markdown list 2
 </details>
 <details>
